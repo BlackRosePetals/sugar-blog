@@ -5,7 +5,7 @@ import { blogTheme } from './blog-theme'
 export default defineConfig({
   extends: blogTheme,
   metaChunk: true,
-  srcExclude: ['CHANGELOG.md', 'redirect-tag.md', 'weekly/2026-07-16.md'],
+  srcExclude: ['CHANGELOG.md', 'redirect-tag.md'],
   markdown: {
     image: {
       lazyLoading: true
