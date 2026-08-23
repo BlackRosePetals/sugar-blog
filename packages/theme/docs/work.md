@@ -15,6 +15,16 @@ publish: false
   link:  https://miaowa.sugarat.top/docs/
   tags: [工具, APP]
   desc: 一句话，记清花销。打字或语音说一句，支出或收入都能记上。自动完成归类。
+
+----
+
+- icon: https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg
+  title: Juejin Usage
+  link:  https://juejin.cn/aiusage/download
+  github: https://github.com/juejin-cn/juejin-usage
+  tags: [工具, 桌面应用]
+  desc: token 用量明细追踪工具，本地记录、云端同步。
+
 ----
 
 - icon: https://theme.sugarat.top/logo.png

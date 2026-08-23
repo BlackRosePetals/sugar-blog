@@ -28,6 +28,14 @@ tags:
   link:  https://miaowa.sugarat.top/docs/
   tags: [工具, APP]
   desc: 一句话，记清花销；一句话完成想要的数据查询。
+----
+
+- icon: https://lf-web-assets.juejin.cn/obj/juejin-web/xitu_juejin_web/6c61ae65d1c41ae8221a670fa32d05aa.svg
+  title: Juejin Usage
+  link:  https://juejin.cn/aiusage/download
+  github: https://github.com/juejin-cn/juejin-usage
+  tags: [工具, 桌面应用]
+  desc: token 用量明细追踪工具，本地记录、云端同步。
 
 :::
 
