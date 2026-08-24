@@ -144,6 +144,10 @@ export default defineConfig({
       {
         text: '个人作品',
         link: '/works/work'
+      },
+      {
+        text: '头图生成',
+        link: '/wechat-cover'
       }
       // {
       //   text: '线上作品',
