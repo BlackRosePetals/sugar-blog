@@ -2,6 +2,7 @@
 top: 2
 sidebar: false
 description: 主题在近几年里集成了非常的多功能了，接下来计划将这些能力拆分成组件，以便于更方便的与其它主题集成。 
+date: 2024-09-09 22:34:00
 ---
 
 # 🚀 VitePress 插件开发计划
@@ -28,7 +29,7 @@ description: 主题在近几年里集成了非常的多功能了，接下来计�
 ## 通用插件开发方案
 插件开发模板：[vitepress-plugin-slot-inject-template](https://github.com/ATQQ/sugar-blog/tree/master/template/vitepress-plugin-slot-inject-template)：适用基于默认 Layout 拓展的场景
 
-原理见：[插件模板介绍](http://localhost:5173/technology/works/vitepress-plugin-announcement.html#%E6%8F%92%E4%BB%B6%E6%A8%A1%E6%9D%BF%E4%BB%8B%E7%BB%8D)
+原理见：[插件模板介绍](./../../technology/works/vitepress-plugin-announcement.md)
 
 ## 已拆分插件
 ### [vitepress-plugin-pagefind](https://www.npmjs.com/package/vitepress-plugin-pagefind)
@@ -55,6 +56,9 @@ VitePress 图片预览插件，样式参考 [Element Plus Image Viewer](https://
 
 ### [vitepress-plugin-back-to-top](https://www.npmjs.com/package/vitepress-plugin-back-to-top)
 * 提供回到顶部按钮功能。
+
+### [vitepress-plugin-product-card](https://www.npmjs.com/package/vitepress-plugin-product-card)
+* 提供 `::: card` markdown 容器语法，用于快速渲染产品/项目/作品卡片，支持 GitHub 仓库时间信息自动展示。
 
 ## 规划中的插件
 * 标签页
